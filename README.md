@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CarolinaAnduquia 
 - 👀 I’m interested in connecting you with the most amazing agencies and companies around the world. 
-- 💞️ I’m looking to collaborate on your professional development
+- 💞️ I want you to learn about eCommerce and collaborate on your professional development. 
 - 📫 How to reach me at https://wa.me/573112218446
