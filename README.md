@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @CarolinaAnduquia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CarolinaAnduquia/CarolinaAnduquia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @CarolinaAnduquia 
+- 👀 I’m interested in connecting you with the most amazing agencies and companies around the world. 
+- 💞️ I’m looking to collaborate on your professional development
+- 📫 How to reach me at https://wa.me/573112218446
